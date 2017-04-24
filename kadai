@@ -7,7 +7,7 @@
 <body>
   <section>
     <h3>Picuture</h3>
-    <img src="yabitu.png" alt="Route 71"/>
+    <img src="yabitu.png">
   </section>
 </body>
 </html>
