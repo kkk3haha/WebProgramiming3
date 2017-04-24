@@ -1,1 +1,13 @@
-
+<!DOCTYPE html>
+<html　lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>Webプログラミング第3回</title>
+</head>
+<body>
+  <section>
+    <h3>Picuture</h3>
+    <img src="yabitu.png" alt="Route 71"/>
+  </section>
+</body>
+</html>
